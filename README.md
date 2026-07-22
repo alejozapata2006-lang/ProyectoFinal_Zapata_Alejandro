@@ -16,12 +16,12 @@ Autor del análisis y de las conclusiones.
 
 Responsable del repositorio, dashboard e informe.
 
-Propósito
+##Propósito
 Desarrollar individualmente un proyecto aplicado que utilice los conceptos, modelos y herramientas estudiados en la asignatura para diseñar, analizar la implementación o evaluar el impacto de una política pública.
 
 El proyecto deberá desarrollarse en Visual Studio Code mediante Codex, Claude Code, Gemini u otra herramienta similar. Se utilizará una arquitectura compuesta por agentes y subagentes de inteligencia artificial. El código y la documentación deberán publicarse en GitHub, mientras que el dashboard deberá desplegarse en Vercel.
 
-Modalidades
+##Modalidades
 El estudiante deberá seleccionar una modalidad:
 
 Diseño de una política pública: formulación de una nueva política, programa o proyecto para atender un problema público.
@@ -30,7 +30,7 @@ Análisis de implementación: estudio de la ejecución, gestión, cobertura, act
 
 Evaluación de resultados o impacto: evaluación de los efectos de una política mediante métodos cuantitativos, cualitativos o mixtos.
 
-Arquitectura multiagéntica mínima
+##Arquitectura multiagéntica mínima
 Cada estudiante deberá configurar, como mínimo:
 
 Un agente coordinador.
@@ -61,7 +61,7 @@ Decisiones aceptadas o rechazadas.
 
 Procedimientos de verificación humana.
 
-Entregables individuales
+##Entregables individuales
 Cada estudiante deberá entregar:
 
 Repositorio público e individual de GitHub.
@@ -82,7 +82,7 @@ ProyectoFinal_Apellido_Nombre.pdf
 
 El PDF deberá incluir los enlaces activos al repositorio de GitHub, dashboard de Vercel, video e informe completo.
 
-Participación y autoría
+##Participación y autoría
 Todo el historial del repositorio deberá corresponder al estudiante. No se aceptarán repositorios compartidos, proyectos elaborados colectivamente ni copias de proyectos desarrollados por otros estudiantes.
 
 Se permite utilizar código abierto, bibliotecas y componentes externos, siempre que:
