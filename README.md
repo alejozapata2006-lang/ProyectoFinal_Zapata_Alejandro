@@ -16,12 +16,12 @@ Autor del análisis y de las conclusiones.
 
 Responsable del repositorio, dashboard e informe.
 
-##Propósito
+## Propósito
 Desarrollar individualmente un proyecto aplicado que utilice los conceptos, modelos y herramientas estudiados en la asignatura para diseñar, analizar la implementación o evaluar el impacto de una política pública.
 
 El proyecto deberá desarrollarse en Visual Studio Code mediante Codex, Claude Code, Gemini u otra herramienta similar. Se utilizará una arquitectura compuesta por agentes y subagentes de inteligencia artificial. El código y la documentación deberán publicarse en GitHub, mientras que el dashboard deberá desplegarse en Vercel.
 
-##Modalidades
+## Modalidades
 El estudiante deberá seleccionar una modalidad:
 
 Diseño de una política pública: formulación de una nueva política, programa o proyecto para atender un problema público.
