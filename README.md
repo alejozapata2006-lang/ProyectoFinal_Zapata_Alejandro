@@ -30,7 +30,7 @@ Análisis de implementación: estudio de la ejecución, gestión, cobertura, act
 
 Evaluación de resultados o impacto: evaluación de los efectos de una política mediante métodos cuantitativos, cualitativos o mixtos.
 
-##Arquitectura multiagéntica mínima
+## Arquitectura multiagéntica mínima
 Cada estudiante deberá configurar, como mínimo:
 
 Un agente coordinador.
@@ -61,7 +61,7 @@ Decisiones aceptadas o rechazadas.
 
 Procedimientos de verificación humana.
 
-##Entregables individuales
+## Entregables individuales
 Cada estudiante deberá entregar:
 
 Repositorio público e individual de GitHub.
@@ -82,7 +82,7 @@ ProyectoFinal_Apellido_Nombre.pdf
 
 El PDF deberá incluir los enlaces activos al repositorio de GitHub, dashboard de Vercel, video e informe completo.
 
-##Participación y autoría
+## Participación y autoría
 Todo el historial del repositorio deberá corresponder al estudiante. No se aceptarán repositorios compartidos, proyectos elaborados colectivamente ni copias de proyectos desarrollados por otros estudiantes.
 
 Se permite utilizar código abierto, bibliotecas y componentes externos, siempre que:
